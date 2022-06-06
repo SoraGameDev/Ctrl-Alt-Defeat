@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/SoundEffects/trainsounds.wav
+Assets/SoundEffects/mechanicalambientsounds.wav
+Assets/SoundEffects/Additional Sounds/trainsounds.wav
+Assets/SoundEffects/Additional Sounds/mechanicalambientsounds.wav
+Assets/Prefabs/Sci-Fi_Crate_HP.obj
+Assets/Prefabs/Sci-Fi_Crate_HP.FBX
