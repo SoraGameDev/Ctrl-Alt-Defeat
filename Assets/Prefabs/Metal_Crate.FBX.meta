@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 77386972f3d83704d9d896520941e5d0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bottom_Hinge_LowPoly
+    100002: Bottom_Hinge_LowPoly002
+    100004: Bottom_Lock_LowPoly_New
+    100006: Bottom_Lock_LowPoly_New001
+    100008: Cylinder_Hinge_LowPoly_New
+    100010: Cylinder_Hinge_LowPoly_New001
+    100012: Lid_Decor_LowPoly
+    100014: Main_Box_LowPoly
+    100016: //RootNode
+    100018: Top_Hinge_LowPoly
+    100020: Top_Hinge_LowPoly002
+    100022: Top_Lock_LowPoly
+    100024: Top_Lock_LowPoly002
+    400000: Bottom_Hinge_LowPoly
+    400002: Bottom_Hinge_LowPoly002
+    400004: Bottom_Lock_LowPoly_New
+    400006: Bottom_Lock_LowPoly_New001
+    400008: Cylinder_Hinge_LowPoly_New
+    400010: Cylinder_Hinge_LowPoly_New001
+    400012: Lid_Decor_LowPoly
+    400014: Main_Box_LowPoly
+    400016: //RootNode
+    400018: Top_Hinge_LowPoly
+    400020: Top_Hinge_LowPoly002
+    400022: Top_Lock_LowPoly
+    400024: Top_Lock_LowPoly002
+    2100000: LowPolyMaterial
+    2300000: Bottom_Hinge_LowPoly
+    2300002: Bottom_Hinge_LowPoly002
+    2300004: Bottom_Lock_LowPoly_New
+    2300006: Bottom_Lock_LowPoly_New001
+    2300008: Cylinder_Hinge_LowPoly_New
+    2300010: Cylinder_Hinge_LowPoly_New001
+    2300012: Lid_Decor_LowPoly
+    2300014: Main_Box_LowPoly
+    2300016: Top_Hinge_LowPoly
+    2300018: Top_Hinge_LowPoly002
+    2300020: Top_Lock_LowPoly
+    2300022: Top_Lock_LowPoly002
+    3300000: Bottom_Hinge_LowPoly
+    3300002: Bottom_Hinge_LowPoly002
+    3300004: Bottom_Lock_LowPoly_New
+    3300006: Bottom_Lock_LowPoly_New001
+    3300008: Cylinder_Hinge_LowPoly_New
+    3300010: Cylinder_Hinge_LowPoly_New001
+    3300012: Lid_Decor_LowPoly
+    3300014: Main_Box_LowPoly
+    3300016: Top_Hinge_LowPoly
+    3300018: Top_Hinge_LowPoly002
+    3300020: Top_Lock_LowPoly
+    3300022: Top_Lock_LowPoly002
+    4300000: Lid_Decor_LowPoly
+    4300002: Main_Box_LowPoly
+    4300004: Top_Hinge_LowPoly
+    4300006: Bottom_Hinge_LowPoly
+    4300008: Top_Lock_LowPoly
+    4300010: Bottom_Lock_LowPoly_New
+    4300012: Cylinder_Hinge_LowPoly_New
+    4300014: Bottom_Hinge_LowPoly002
+    4300016: Cylinder_Hinge_LowPoly_New001
+    4300018: Top_Hinge_LowPoly002
+    4300020: Bottom_Lock_LowPoly_New001
+    4300022: Top_Lock_LowPoly002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LowPolyMaterial
+    second: {fileID: 2100000, guid: 0f41c49b444153d47bdbc6dc27cd107b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
